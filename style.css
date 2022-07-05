@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 100%;
+    padding-left: 5%;
+}
+
+.half-widt img {
+    width: 80%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 20px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.top-cool {
+    background-image: url(fool/top-banner.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    mar
+}
