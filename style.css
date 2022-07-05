@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexibo {
     display: flex;
     margin-bottom: 100px;
 
@@ -20,6 +20,7 @@ section {
 .half-width {
     width: 100%;
     padding-left: 10%;
+
 }
 
 .half-widt img {
@@ -48,4 +49,32 @@ section {
     background-image: url(fool/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experinace-i {
+    box-shadow: 10px 10px 50px gray;
+    width: 50%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-left: 15px;
+    border-radius: 10px;
+}
+
+.experi {
+    background-image: url(fool/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack {
+    border-left: 8px solid tomato;
+}
+
+#junior {
+    border-right: 8px solid blue;
+}
+
+
+.fut {
+    text-align: center;
 }
